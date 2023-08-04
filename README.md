@@ -1,3 +1,4 @@
 # shopping-cart
+Built using HTML, CSS and JavaScript.
 
-Project Deployment Link: https://rp7007.github.io/shopping-cart/
+Project Deployment Link: https://shopping-cart-nu-sooty.vercel.app/
